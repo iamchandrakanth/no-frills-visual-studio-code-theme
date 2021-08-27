@@ -1,0 +1,22 @@
+{
+    "name": "no-frills",
+    "displayName": "No Frills",
+    "description": "Get an easily distinguishable sections that is distraction free and clean to the eyes",
+    "version": "0.0.1",
+    "publisher": "mchandrakanth",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "No Frills Distinguishable",
+                "uiTheme": "vs-dark",
+                "path": "./themes/No Frills Distinguishable-color-theme.json"
+            }
+        ]
+    }
+}
