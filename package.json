@@ -2,7 +2,7 @@
     "name": "no-frills",
     "displayName": "No Frills",
     "description": "Get an easily distinguishable sections that is distraction free and clean to the eyes",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mchandrakanth",
     "engines": {
         "vscode": "^1.59.0"
